@@ -19,8 +19,8 @@ ce qui peut être utile dans diverses applications, telles que le contrôle d'ac
 - 📊 scikit-learn
 
 ## 📥 Installation
-git clone https://github.com/ton-utilisateur/ton-projet.git
-cd ton-projet
+git clone git@github.com:muhammedehab35/TUNUSIA_LICENSE_PLATE-RECOGNITION.git
+cd TUNUSIA_LICENSE_PLATE-RECOGNITION
 pip install -r requirements.txt
 
 
