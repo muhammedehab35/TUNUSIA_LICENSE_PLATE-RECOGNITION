@@ -20,12 +20,14 @@ ce qui peut être utile dans diverses applications, telles que le contrôle d'ac
 
 ## 📥 Installation
 git clone git@github.com:muhammedehab35/TUNUSIA_LICENSE_PLATE-RECOGNITION.git
+
 cd TUNUSIA_LICENSE_PLATE-RECOGNITION
+
 pip install -r requirements.txt
 
 
 ## ⚙️ Utilisation
-python train_model.py
+python MODEL_SCRIPT.py
 
 
 ## 📊 Prétraitement des Données
