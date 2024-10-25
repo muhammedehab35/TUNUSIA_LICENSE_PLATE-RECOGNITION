@@ -26,12 +26,12 @@ Instructions pour cloner le dépôt et installer les dépendances :
 git clone https://github.com/ton-utilisateur/ton-projet.git
 cd ton-projet
 pip install -r requirements.txt
-⚙️ Utilisation
+# ⚙️ Utilisation
 python train_model.py
-📊 Prétraitement des Données
+## 📊 Prétraitement des Données
 Informations sur la façon dont les données doivent être organisées et traitées avant d'être utilisées.
-🏆 Résultats
+## 🏆 Résultats
 Si possible, inclure des exemples de résultats obtenus par le modèle, ou des métriques de performance.
 
-🤝 Contributions
+## 🤝 Contributions
 Indique comment les autres peuvent contribuer à ton projet.
