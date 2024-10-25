@@ -34,26 +34,26 @@ python MODEL_SCRIPT.py
 
 est une étape cruciale pour assurer la qualité des images et améliorer la précision de la reconnaissance des caractères. Les principales techniques utilisées incluent :
 
-Extraction des Images :
+# Extraction des Images :
 
 Lecture des images et des étiquettes depuis les répertoires spécifiés.
-Filtrage Homomorphe :
+# Filtrage Homomorphe :
 
 
 Amélioration du contraste et réduction du bruit à l'aide de transformations dans le domaine fréquentiel.
-Suppression des Petits Objets :
+# Suppression des Petits Objets :
 
 Élimination des éléments indésirables dans les images binaires.
-Segmentation des Caractères :
+# Segmentation des Caractères :
 
 Isolation des caractères présents sur les plaques pour un traitement ultérieur.
-Amélioration de l'Image :
+# Amélioration de l'Image :
 
 Techniques d'égalisation d'histogramme et filtrage adaptatif pour améliorer la qualité visuelle.
-Augmentation des Données : 
+# Augmentation des Données : 
 
 Application de transformations (rotation, retournement) pour enrichir le jeu de données.
-Sauvegarde des Images Prétraitées : 
+# Sauvegarde des Images Prétraitées : 
 
 Conservation des images traitées pour une utilisation ultérieure dans le modèle.
 
